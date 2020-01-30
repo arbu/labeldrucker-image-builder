@@ -1,0 +1,4 @@
+/openwrt
+/labeldrucker-openwrt.img*
+/fonts/*
+!/fonts/place_fonts_here
